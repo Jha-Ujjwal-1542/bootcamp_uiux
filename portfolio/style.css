@@ -1,0 +1,38 @@
+* {
+  margin: 10px;
+}
+.rolls {
+  background-color: cyan;
+}
+/* .head{
+  text-align: center;
+} */
+
+.body-container{
+  display: inline-block;
+  /* float: right; */
+  width: 33.33%;
+  padding: 5px;
+  background-color: orange;
+}
+.food{
+  text-align: center;
+  border: 1px solid black;
+}
+.edu{
+  text-align: center;
+  border: 1px solid black;
+  padding: 1rem;
+  border-spacing: 0.5rem;
+}
+.movie{
+  text-align: center;
+  border: 1px solid black;
+  padding: 1rem;
+}
+table, td, th{
+  border: 1px solid black;
+}
+.label-container{
+  background-color: purple
+}
